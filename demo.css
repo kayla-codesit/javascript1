@@ -1,0 +1,11 @@
+p {
+  font-family: "Franklin Gothic Medium", arial;
+  width: 60px;
+  height: auto;
+  margin: 30px;
+  padding: 40px;
+  border: 2px solid red;
+  border-radius: 25%;
+  display: inline-block;
+  cursor: pointer;
+}
